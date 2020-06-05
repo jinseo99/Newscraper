@@ -30,5 +30,4 @@ save_file_name = "csv_files/" + save_file_name + '.csv'
 ### end test case ###
 
 webscraper.setListofDates(start_date, end_date)
-webscraper.scrapAllPages(googlenews, save_file_name)
-print('test change')
+webscraper.scrapAllPages(googlenews, save_file_path)
