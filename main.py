@@ -21,8 +21,8 @@ start_date = date(2015, 8, 11)
 
 end_date = date.today()
 
-save_file_name = datetime.now().strftime("googlenews_results_%H+%M_%m-%d-%Y")
-save_file_name = "csv_files/" + save_file_name + '.csv'
+save_file_path = datetime.now().strftime("googlenews_results_%H+%M_%m-%d-%Y")
+save_file_path = "csv_files/" + save_file_path + '.csv'
 
 ### start test case ### 
 #end_date = date(2015, 8, 13)
