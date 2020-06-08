@@ -3,10 +3,11 @@
 #SBATCH --partition=fast
 #SBATCH --ntasks=1
 #SBATCH --time=22:00:00
-#SBATCH --output=output/job-%j.out
+#SBATCH --output=out/job-%j.out
 
 echo "Start of Script"
 
-python summarizer.py
+python main.py
+
 
 echo "End of Script"
