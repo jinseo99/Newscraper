@@ -1,0 +1,51 @@
+Start of Script
+using googlenews_results_03+49_06-04-2020.csv
+/home/jinseo.lee/env/lib/python3.7/site-packages/dateutil/parser/_parser.py:1218: UnknownTimezoneWarning: tzname EDT identified but not understood.  Pass `tzinfos` argument in order to correctly return a timezone-aware datetime.  In a future version, this will raise an exception.
+  category=UnknownTimezoneWarning)
+Traceback (most recent call last):
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/connectionpool.py", line 381, in _make_request
+    self._validate_conn(conn)
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/connectionpool.py", line 976, in _validate_conn
+    conn.connect()
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/connection.py", line 370, in connect
+    ssl_context=context,
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/util/ssl_.py", line 377, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/global/software/python/anaconda3.7/lib/python3.7/ssl.py", line 423, in wrap_socket
+    session=session
+  File "/global/software/python/anaconda3.7/lib/python3.7/ssl.py", line 870, in _create
+    self.do_handshake()
+  File "/global/software/python/anaconda3.7/lib/python3.7/ssl.py", line 1139, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/connectionpool.py", line 725, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/util/retry.py", line 439, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='wallstreetpit.com', port=443): Max retries exceeded with url: /36356-the-real-yield-curve-and-a-double-dip-recession/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "summarizer.py", line 22, in <module>
+    req = requests.get(url, time.sleep(3), headers=headers)
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='wallstreetpit.com', port=443): Max retries exceeded with url: /36356-the-real-yield-curve-and-a-double-dip-recession/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')))
+End of Script
