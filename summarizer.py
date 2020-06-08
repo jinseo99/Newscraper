@@ -19,6 +19,7 @@ tokenizer = RegexpTokenizer(r'\w+')
 keyword = 'tesla'
 delete_row_ind =[]
 for i, url in enumerate(url_lists):
+    print ("currently on index", i, url)
     req = requests.get(url, time.sleep(3), headers=headers)
     extractor = Goose()
     article = extractor.extract(raw_html=req.content)
@@ -29,6 +30,7 @@ for i, url in enumerate(url_lists):
             keyword_count+=1
             
     if keyword_count < 5:
+        print('deleted')
         delete_row_ind.append(i)
 df = df.drop(df.index[delete_row_ind])
 df.to_csv("csv_files/tesla_news.csv")
