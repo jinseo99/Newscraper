@@ -7,7 +7,7 @@
 
 echo "Start of Script"
 
-echo "using googlenews_results_03+49_06-04-2020.csv"
+echo "using googlenews_results_16+00_06-04-2020.csv"
 python summarizer.py
 
 echo "End of Script"
