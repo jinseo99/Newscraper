@@ -3,11 +3,11 @@
 #SBATCH --partition=fast
 #SBATCH --ntasks=1
 #SBATCH --time=22:00:00
-#SBATCH --output=out/job-%j.out
+#SBATCH --output=output/job-%j.out
 
 echo "Start of Script"
 
-python main.py
-
+echo "using googlenews_results_03+49_06-04-2020.csv"
+python summarizer.py
 
 echo "End of Script"

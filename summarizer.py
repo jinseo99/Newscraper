@@ -3,10 +3,13 @@ from bs4 import BeautifulSoup
 import time 
 import pandas as pd
 from goose3 import Goose
+from Unbuffered import Unbuffered
+import sys
+
+sys.stdout = Unbuffered(sys.stdout)
 
 user_agent = 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:64.0) Gecko/20100101 Firefox/64.0'
 headers = {'User-Agent': user_agent}
-
 df = pd.DataFrame(pd.read_csv('csv_files/googlenews_results_03+49_06-04-2020.csv'))
 url_lists = df['link']
 
@@ -24,6 +27,7 @@ for i, url in enumerate(url_lists):
     for word in text:
         if word == keyword:
             keyword_count+=1
+            
     if keyword_count < 5:
         delete_row_ind.append(i)
 df = df.drop(df.index[delete_row_ind])
