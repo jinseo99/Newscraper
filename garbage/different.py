@@ -24,6 +24,7 @@ class Different:
         with open((self.directory+"test1.txt"), 'w') as wf:
             wf.writelines(str(page))
 
+    # urllib urlopen
     def first_html(self):
 
         user_agent = 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:64.0) Gecko/20100101 Firefox/64.0'
@@ -36,6 +37,7 @@ class Different:
         with open((self.directory+"test1_2.txt"), 'w') as wf:
             wf.writelines(content.prettify())
 
+    # requests.get
     def second_source(self):
         user_agent = 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:64.0) Gecko/20100101 Firefox/64.0'
         headers = {'User-Agent': user_agent}
@@ -54,7 +56,8 @@ class Different:
         content = BeautifulSoup(page, "html.parser")
         with open((self.directory+"test2_2.txt"), 'w') as wf:
             wf.writelines(content.prettify())
-
+    
+    # urllib3 Pool Manager
     def third_source(self):
         req = urllib3.PoolManager()
         response = req.request('GET', self.test_url)
@@ -76,16 +79,17 @@ class Different:
         result = content.find_all("div", class_="g")
         print (result)
 directory = 'test_html/'
-test_url = "https://www.google.com/search?q=tesla&lr=lang_en&tbs=lr:lang_1en,cdr:1,cd_min:08/10/2015,cd_max:08/10/2015&tbm=nws&start=20"
+test_url = "https://www.google.com/search?q=tesla&lr=lang_en&tbs=lr:lang_1en,cdr:1,cd_min:08/10/2015,cd_max:08/10/2015&tbm=nws&start=0"
+test_url = "https://www.businessinsider.com/elon-musk-proved-tesla-doesnt-need-advertising-2020-5"
 
-user_agent = 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:64.0) Gecko/20100101 Firefox/64.0'
+user_agent = 'newspaper/0.2.8'
 headers = {'User-Agent': user_agent}
 
 req = requests.get(test_url, headers=headers)
 page = req.content
 content = BeautifulSoup(page, "html.parser")
-result = content.find_all("div", class_="g")
-print(result)
+with open((directory+"test3_2.txt"), 'w') as wf:
+    wf.writelines(content.prettify())
 
 #different = Different(test_url, directory)
 #different.second_html()
