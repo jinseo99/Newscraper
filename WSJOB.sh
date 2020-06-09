@@ -7,8 +7,9 @@
 
 echo "Start of Script"
 
-echo "job-"$JobID
-echo "googlenews_results_03+49_06-04-2020.csv"
+echo "job-%j"
+echo "starting from index 463"
+
 python summarizer.py
 
 echo "End of Script"
