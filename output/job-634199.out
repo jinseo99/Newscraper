@@ -1,0 +1,961 @@
+Start of Script
+using googlenews_results_03+49_06-04-2020.csv
+currently on index 0 https://www.wired.com/2010/06/tesla-ipo-raises-226-1-million/
+currently on index 1 https://money.cnn.com/2010/06/29/technology/tesla_ipo/index.htm
+currently on index 2 https://www.marketwatch.com/story/tesla-motors-ipo-opens-12-above-offer-price-2010-06-29
+currently on index 3 https://money.cnn.com/2010/06/29/news/economy/consumer_confidence/index.htm
+deleted
+currently on index 4 https://www.areadevelopment.com/newsItems/6-29-2010/xerium-technologies-stowe-woodward-ontario7793.shtml
+deleted
+currently on index 5 http://www.autospies.com/news/Mercedes-Benz-introduces-entry-level-GLK-200-CDI-BlueEfficiency-2WD-55498/
+deleted
+currently on index 6 https://techcrunch.com/2010/06/29/rumblefish-friendly-music/
+deleted
+currently on index 7 https://thenextweb.com/apps/2010/06/29/new-tool-how-secure-is-my-password-tells-you-well-you-know/
+deleted
+currently on index 8 http://www.autospies.com/news/2011-BMW-550i-Vs-Modified-Jeep-Grand-Cherokee-SRT8-Guess-Who-Wins-55517/
+deleted
+currently on index 9 https://www.environmentalleader.com/2010/06/sixteen-states-ban-high-phosphate-soap/
+deleted
+currently on index 10 https://kotaku.com/maddens-new-swagger-explained-5575957
+deleted
+currently on index 11 http://www.autospies.com/news/2010-Mazda-MX5-Miyako-Special-Edition-Unveiled-55505
+deleted
+currently on index 12 https://www.autoblog.com/2010/06/29/mv-agusta-announces-cannonball-kit-for-2010-brutale-1090rr/
+deleted
+currently on index 13 https://lifehacker.com/shift-refresh-is-like-the-restart-button-for-web-sites-5574852
+deleted
+currently on index 14 https://www.greentechmedia.com/articles/read/home-area-networks-risk-and-reality-in-the-smart-grid
+deleted
+currently on index 15 https://lifehacker.com/smartphone-comparison-chart-compares-extensive-smartpho-5575317
+deleted
+currently on index 16 https://www.reuters.com/article/us-oil-spill-bp-pr/analysis-bp-pr-blunders-carry-high-political-cost-idUSTRE65S3JL20100629
+deleted
+currently on index 17 https://www.reuters.com/article/us-fsa-pvm-ban/oil-broker-banned-for-drunk-trading-binge-idUSTRE65S42620100629
+deleted
+currently on index 18 https://www.caranddriver.com/news/a15129541/2012-ferrari-599-roadster-rendered-future-cars/
+deleted
+currently on index 19 https://lifehacker.com/use-google-voice-to-keep-a-consistent-prepaid-phone-num-5575257
+deleted
+currently on index 20 https://www.caranddriver.com/features/a15126247/caterpillar-d7e-feature/
+deleted
+currently on index 21 https://www.reuters.com/article/us-accor/accor-shareholders-clear-demerger-plan-idUSTRE65S33Y20100629
+deleted
+currently on index 22 https://www.thecarconnection.com/news/1046641_driven-2011-infiniti-qx56
+deleted
+currently on index 23 https://www.thecarconnection.com/news/1046650_no-clear-successor-to-town-car-and-crown-vic-in-fleets
+deleted
+currently on index 24 https://www.autoguide.com/auto-news/2010/06/hello-kitty-motor-oil-looks-pretty-slick.html
+deleted
+currently on index 25 https://www.bbc.co.uk/news/10448939
+deleted
+currently on index 26 https://www.npr.org/sections/allsongs/2010/06/29/128189562/results2010sofar
+deleted
+currently on index 27 https://www.autoguide.com/auto-news/2010/06/father-of-the-range-rover-dies-at-age-85.html
+deleted
+currently on index 28 https://www.topspeed.com/cars/car-news/couple-test-driving-a-ford-f-150-accidentally-crushes-into-mercury-milan-sedans-ar92733.html
+deleted
+currently on index 29 https://www.topspeed.com/cars/car-news/top-gear-shows-us-why-there-aren-t-three-wheeled-cars-driving-around-ar92698.html
+deleted
+currently on index 30 https://www.topspeed.com/cars/car-news/ferrari-599-gto-tested-by-evo-magazine-ar92760.html
+deleted
+currently on index 31 https://www.topspeed.com/cars/car-news/2010-bmw-m3-performance-carbon-fiber-aerodynamic-components-ar92738.html
+deleted
+currently on index 32 https://www.topspeed.com/cars/car-news/1914-rolls-royce-for-sale-at-67-million-ar92692.html
+deleted
+currently on index 33 https://www.topspeed.com/cars/car-news/18-year-old-s-bmw-x9-concept-looks-about-as-angry-as-any-concept-you-ll-see-ar92712.html
+deleted
+currently on index 34 https://www.theregister.co.uk/2010/06/30/tesla_ipo/
+currently on index 35 https://jalopnik.com/for-20-000-get-a-turbine-powered-928-with-free-shippi-5576028
+deleted
+currently on index 36 https://wheels.blogs.nytimes.com/2010/06/30/g-m-salutes-its-damsel-designers/
+deleted
+currently on index 37 http://www.superstreetonline.com/features/sstp-1007-1998-honda-prelude/
+deleted
+currently on index 38 https://www.thetruthaboutcars.com/2010/06/review-2011-toyota-sienna/
+deleted
+currently on index 39 https://www.autoblog.com/2010/06/30/avenge-the-fallen-with-the-wraith-movie-car/
+deleted
+currently on index 40 https://film.avclub.com/the-last-airbender-1798165371
+deleted
+currently on index 41 https://www.greenchipstocks.com/articles/u-s-mayors-put-the-pressure-on-congress-for-product-stewardship/78790
+deleted
+currently on index 42 https://www.engadget.com/2010-06-30-meego-for-handsets-makes-its-first-appearance.html
+deleted
+currently on index 43 http://www.autospies.com/news/Mercedes-Benz-SLM-Future-Speculation-Detailed-by-Automobile-55543/
+deleted
+currently on index 44 https://techcrunch.com/2010/06/30/google-news-overhaul/
+deleted
+currently on index 45 https://www.marketwatch.com/story/us-stocks-turn-up-on-chicago-manufacturing-data-2010-06-30?reflink=MW_news_stmp
+deleted
+currently on index 46 https://wheels.blogs.nytimes.com/2010/06/30/swatch-founder-also-gave-birth-to-the-smart-car/
+deleted
+currently on index 47 https://www.autoblog.com/2010/06/30/pagani-zonda-r-reportedly-sets-new-nurburgring-record/
+deleted
+currently on index 48 https://www.environmentalleader.com/2010/06/environmental-mission-statements-starwood-shows-commitment/
+deleted
+currently on index 49 https://www.autoblog.com/2010/06/30/vintage-mini-gets-3-500-horsepower-engine-swap-for-goodwood/
+deleted
+currently on index 50 https://www.bbc.co.uk/news/10459184
+deleted
+currently on index 51 https://www.autoblog.com/2010/06/30/nowack-tweaks-the-bmw-m5s-v10-to-708-horsepower/
+deleted
+currently on index 52 https://lifehacker.com/simple-root-unlocks-htc-evo-4g-in-one-click-5576340
+deleted
+currently on index 53 https://www.reuters.com/article/us-film-spector/phil-spector-documentary-is-essential-viewing-idUSTRE65T18C20100630
+deleted
+currently on index 54 https://www.caranddriver.com/reviews/a15126216/bentley-continental-review-2011-bentley-supersports-convertible-first-drive/
+deleted
+currently on index 55 https://www.autoguide.com/auto-news/2010/06/toyota-to-supply-subaru-with-new-sub-compact-model.html
+deleted
+currently on index 56 https://www.bizjournals.com/stlouis/stories/2010/06/28/daily19.html
+deleted
+currently on index 57 https://www.topspeed.com/cars/car-news/ferrari-360-spider-gets-rear-ended-by-reckless-driver-ar92747.html
+deleted
+currently on index 58 https://www.topspeed.com/cars/car-news/volvo-prepares-c60-convertible-for-2013-ar92793.html
+deleted
+currently on index 59 https://www.autoguide.com/auto-news/2010/06/avatarbeware-opel-meriva-gets-3d-advertisement-video-inside.html
+deleted
+currently on index 60 https://www.autoguide.com/auto-news/2010/06/dodge-unveils-nascar-challenger-ahead-of-friday-nights-nationwide-race.html
+deleted
+currently on index 61 https://www.slashgear.com/onkyo-tx-nr5008-and-nr3008-flagship-streaming-receivers-outed-3092228/
+deleted
+currently on index 62 https://www.treehugger.com/cars/tesla-electric-roadster-v25-the-iphone-4-of-electric-cars.html
+currently on index 63 https://www.gizmodo.com.au/2010/07/a-trip-to-the-money-factory/
+deleted
+currently on index 64 https://www.autoblog.com/2010/07/01/ford-begins-online-car-sales-in-the-uk/
+deleted
+currently on index 65 https://earthtechling.com/2010/07/iowa-surfaces-as-major-player-in-biofuels-production/
+deleted
+currently on index 66 https://www.nytimes.com/2010/07/02/us/politics/02obama-text.html
+deleted
+currently on index 67 http://www.autospies.com/news/2011-Mercedes-Benz-C63-AMG-DR-520-the-most-powerful-C-Class-on-the-market-55590/
+deleted
+currently on index 68 https://www.engadget.com/2010-07-01-directvs-new-n3d-channel-is-the-first-to-bring-home-all-3d-all.html
+deleted
+currently on index 69 https://www.environmentalleader.com/2010/07/green-building-market-to-hit-173-5-billion-by-2015/
+deleted
+currently on index 70 https://oilprice.com/Energy/Energy-General/Turning-Crude-Oil-To-Natural-Gas-In-The-Oil-Field.html
+deleted
+currently on index 71 https://thenextweb.com/apple/2010/07/02/its-here-spotify-for-ios4-with-background-listening/
+deleted
+currently on index 72 https://www.bizjournals.com/denver/stories/2010/06/28/daily51.html
+deleted
+currently on index 73 https://www.reuters.com/article/china-labour-strike/update-2-china-strike-wave-persists-hits-japanese-firm-idUSTOE66004I20100701
+deleted
+currently on index 74 https://www.caranddriver.com/news/a15126161/audi-r8-spyder-news-audi-r8-spyder-v8/
+deleted
+currently on index 75 https://www.reuters.com/article/moodys-hybrids/moodys-unveils-new-system-for-hybrid-debt-idUSLDE66018120100701
+deleted
+currently on index 76 https://www.thehindu.com/news/national/DRDO-working-on-more-advanced-version-of-Arjun-MBT-Saraswat/article16181103.ece
+deleted
+currently on index 77 https://www.reuters.com/article/us-cold-cereal/cold-cereal-might-beat-a-hot-breakfast-idUSTRE6604GT20100701
+deleted
+currently on index 78 https://www.autoguide.com/auto-news/2010/07/2011-ford-mustang-gt-optional-brembo-package-selling-like-hotcakes.html
+deleted
+currently on index 79 https://www.caranddriver.com/news/a15128653/2011-mini-cooper-and-clubman-news/
+deleted
+currently on index 80 https://www.thecarconnection.com/news/1046767_silverado-ranger-impala-among-best-red-white-and-blue-deals
+deleted
+currently on index 81 https://www.reuters.com/article/us-peru-whale-teeth/fossil-of-mega-toothed-killer-whale-found-in-peru-idUSTRE6603EQ20100701
+deleted
+currently on index 82 https://www.thecarconnection.com/news/1046742_beijing-mexico-city-have-most-painful-commutes-for-drivers
+deleted
+currently on index 83 http://www.superstreetonline.com/features/sstp-1007-1991-acura-integra-ls/
+deleted
+currently on index 84 https://latimesblogs.latimes.com/movies/2010/07/the-fall-guy-movie-reboot-lee-majors.html
+deleted
+currently on index 85 https://in.reuters.com/article/idINIndia-49806820100702
+deleted
+currently on index 86 https://www.thecarconnection.com/news/1046697_the-top-5-states-for-speeders
+deleted
+currently on index 87 https://www.caranddriver.com/news/a15129402/tesla-roadster-news-2011-tesla-roadster-25-info/
+currently on index 88 https://wheels.blogs.nytimes.com/2010/07/02/an-inadvertent-star-turn-for-ducati/
+deleted
+currently on index 89 https://www.areadevelopment.com/newsitems/7-2-2010/gedore-north-charleston-south-carolina7707.shtml
+deleted
+currently on index 90 https://www.yankodesign.com/2010/07/02/kit-to-serve-humans/
+deleted
+currently on index 91 https://thenextweb.com/apps/2010/07/02/tastebuds-last-fm-powered-dating-for-music-fans/
+deleted
+currently on index 92 https://money.cnn.com/2010/07/02/news/companies/kia_hamsters_advertising.fortune/index.htm
+deleted
+currently on index 93 https://www.autoblog.com/2010/07/02/goodyear-rolling-out-multicolor-nascar-tires-to-support-our-troo/
+deleted
+currently on index 94 https://autospies.com/news/Victoria-Beckham-Joins-Range-Rover-s-Creative-Team-Is-This-Indicative-Of-The-LRX-s-Demographic-55609/
+deleted
+currently on index 95 https://www.environmentalleader.com/2010/07/global-ghg-emissions-fell-7-in-2009/
+deleted
+currently on index 96 https://www.environmentalleader.com/2010/07/online-database-to-compare-ecolabels/
+deleted
+currently on index 97 https://www.theglobeandmail.com/report-on-business/a-look-at-wireless-milestones/article1386378/
+deleted
+currently on index 98 https://www.theglobeandmail.com/report-on-business/a-phone-so-big-it-came-with-its-own-luggage/article1389639/
+deleted
+currently on index 99 https://www.autoblog.com/2010/07/02/video-ford-shows-off-2011-explorer-air-leak-and-panel-gap-tests/
+deleted
+currently on index 100 https://www.autoblog.com/2010/07/02/new-volkswagen-sharan-minivan-gets-42-8-mpg-u-s/
+deleted
+currently on index 101 https://www.autoblog.com/2010/07/02/2011-bmw-550i-xdrive-debuts-along-with-m-sport-package/
+deleted
+currently on index 102 https://www.npr.org/templates/story/story.php?storyId=128246854
+deleted
+currently on index 103 https://www.npr.org/sections/inside/2010/07/01/128248366/the-ghana-oregon-comparison-in-defense-of-a-puny-state
+deleted
+currently on index 104 https://www.caranddriver.com/news/a15128616/mercedes-benz-cl-class-news-2011-cl-class-refreshed/
+deleted
+currently on index 105 https://www.autoguide.com/auto-news/2010/07/polish-fiat-500-owner-turns-city-car-into-4x4.html
+deleted
+currently on index 106 https://money.cnn.com/2010/07/02/autos/lexus_engine_recall/index.htm
+deleted
+currently on index 107 https://www.automotiveaddicts.com/12761/gm-chevy-volt-almost-ready
+deleted
+currently on index 108 https://www.topspeed.com/cars/car-news/1959-ferrari-250-gt-lwb-california-spider-competizione-for-auction-ar92924.html
+deleted
+currently on index 109 https://www.fonearena.com/blog/19488/apples-official-reply-to-iphone-4-users.html
+deleted
+currently on index 110 https://www.dailymail.co.uk/sciencetech/article-1291739/Stunning-images-revealed-inside-snakes-digestive-hour-ate-rat.html
+deleted
+currently on index 111 https://www.automoblog.net/2010/07/03/25-years-after-going-back-to-the-future-the-delorean-dmc-12/
+deleted
+currently on index 112 https://www.reuters.com/article/us-palestinians-israel-munich/palestinian-who-planned-munich-attack-dies-in-syria-idUSTRE6622GL20100703
+deleted
+currently on index 113 https://www.bloomberg.com/news/articles/2010-07-03/deutsche-bank-warned-in-advance-of-co2-tax-probe-raids-prosecutor-says
+deleted
+currently on index 114 https://www.autoguide.com/auto-news/2010/07/abt-sportsline-tunes-new-audi-a8.html
+deleted
+currently on index 115 https://www.topspeed.com/cars/should-you-buy-an-aftermarket-exhaust-for-your-car-ar92893.html
+deleted
+currently on index 116 https://www.greenchipstocks.com/articles/the-status-of-renewable-energy-in-the-united-states/78792
+deleted
+currently on index 117 https://tv.avclub.com/the-boondocks-the-story-of-lando-freeman-1798165392
+deleted
+currently on index 118 https://techcrunch.com/2010/07/04/tasting-table-is-the-daily-candy-for-foodies/
+deleted
+currently on index 119 https://www.autoblog.com/2010/07/04/bugatti-veyron-16-4-super-sport-sets-land-speed-record-at-267-81/
+deleted
+currently on index 120 https://www.ft.com/content/ffd7c2d2-87d4-11df-9f37-00144feabdc0
+deleted
+currently on index 121 https://www.autowereld.com/nieuws/autonieuws/id/10153/tesla-evolueert-roadster-met-25
+deleted
+currently on index 122 http://www.autospies.com/news/EXCLUSIVE-Spies-Get-Inside-Fisker-Karma-Plug-In-VIP-Sneak-55672/
+deleted
+currently on index 123 https://www.carmagazine.co.uk/car-news/first-official-pictures/mercedes-benz/mercedes-sls-amg-e-cell-2010-the-electric-sls/
+deleted
+currently on index 124 https://thenextweb.com/apps/2010/07/05/conde-nast-traveler-releases-10-city-guide-iphone-apps-with-augmented-reality/
+deleted
+currently on index 125 https://www.autoblog.com/2010/07/05/spyker-cars-pays-off-gm-for-saab-purchase-ahead-of-schedule/
+deleted
+currently on index 126 https://www.theglobeandmail.com/news/toronto/woman-who-died-in-rooming-house-fire-was-murdered/article1390015/
+deleted
+currently on index 127 https://www.yankodesign.com/2010/07/05/20-best-of-best-red-dot-product-design-winners/
+deleted
+currently on index 128 https://www.greentechmedia.com/articles/read/abengoa
+deleted
+currently on index 129 https://www.autoblog.com/2010/07/05/first-drive-callaway-sc572-and-sc552-is-the-chevrolet-camaro-do/
+deleted
+currently on index 130 https://thenextweb.com/entrepreneur/2010/07/05/building-the-next-google/
+deleted
+currently on index 131 https://www.autoguide.com/auto-news/2010/07/luke-lonberger-rumored-to-drive-a-corvette-in-formula-drift-series.html
+deleted
+currently on index 132 https://www.autoguide.com/auto-news/2010/07/2011-subaru-forester-gets-new-base-engine-improved-fuel-economy.html
+deleted
+currently on index 133 https://www.autoguide.com/auto-news/2010/07/last-dodge-viper-goes-out-in-a-blaze-of-earth-tone-glory.html
+deleted
+currently on index 134 https://www.carmagazine.co.uk/car-news/first-official-pictures/renault/renault-dezir-concept-2010-first-official-pictures/
+deleted
+currently on index 135 https://www.automotiveaddicts.com/12796/bugatti-veyron-16-4-super-sports-debuts-sets-production-car-land-speed-record
+deleted
+currently on index 136 https://www.thetruthaboutcars.com/2010/07/review-2010-jeep-grand-cherokee-srt-8/
+deleted
+currently on index 137 https://www.topspeed.com/cars/car-news/ken-imhoff-s-hand-built-lamborghini-countach-is-truly-one-of-a-kind-ar93014.html
+deleted
+currently on index 138 https://www.autowereld.com/nieuws/autonieuws/id/10152/ds3-r3-nieuw-rallykanonetje-van-citroen-racing
+deleted
+currently on index 139 https://www.autoguide.com/auto-news/2010/07/tesla-ipo-idown.html
+currently on index 140 https://news.avclub.com/women-of-the-daily-show-respond-to-accusations-that-s-1798220746
+deleted
+currently on index 141 https://wheels.blogs.nytimes.com/2010/07/06/bugatti-veyron-super-sport-sets-speed-record/
+deleted
+currently on index 142 https://www.treehugger.com/cars/gm-to-make-10000-volts-in-2011-and-30000-in-2012.html
+deleted
+currently on index 143 http://www.autospies.com/news/Is-This-New-HYPERCAR-Just-Full-Of-HYPE-2000-Hp-2000-Lb-Ft-55682/
+deleted
+currently on index 144 https://www.greenchipstocks.com/articles/energy-efficiency-emerges-as-strongest-cleantech-sector/78794
+deleted
+currently on index 145 https://www.autoblog.com/2010/07/06/bmw-leaks-first-gen-x5-made-of-carbon-fiber/
+deleted
+currently on index 146 https://www.evesun.com/news/stories/2010-07-06/9989/Millbrook-offers-camp-sites
+deleted
+currently on index 147 https://www.autoblog.com/2010/07/06/2011-mitsubishi-lancer-evolution-x-se-melds-the-best-bits-of-the/
+deleted
+currently on index 148 https://earthtechling.com/2010/07/chinese-zotye-electric-suv-comes-to-america/
+deleted
+currently on index 149 https://www.surfertoday.com/surfing/tom-morey-invents-the-rolling-skeg-for-surfboards
+deleted
+currently on index 150 https://techcrunch.com/2010/07/06/adsafe-media-raises-7-25-million-for-brand-verification-platform/
+deleted
+currently on index 151 http://www.autospies.com/news/The-Booth-Babe-Dishes-Her-Favorite-COOL-Police-Cruisers-Good-Luck-Outrunning-THESE-55719/
+deleted
+currently on index 152 https://www.treehugger.com/cars/renault-unveils-dezir-100-electric-concept-supercar.html
+deleted
+currently on index 153 https://www.caradvice.com.au/73157/2011-peugeot-508-station-wagon-spy-photos/
+deleted
+currently on index 154 https://www.autoblog.com/2010/07/06/report-gibbs-aquada-amphibious-car-hobbled-by-federal-requireme/
+deleted
+currently on index 155 https://www.dailymail.co.uk/motoring/article-1292423/Bored-I-Spy-The-fun-games-make-family-car-trips-speed-by.html
+deleted
+currently on index 156 https://www.rferl.org/a/Iran_Unveils_Approved_Haircuts/2092046.html
+deleted
+currently on index 157 https://www.reuters.com/article/us-obama-immigration-lawsuit/obama-administration-sues-arizona-over-immigration-law-idUSTRE6653Q320100707
+deleted
+currently on index 158 https://www.reuters.com/article/us-agbank/chinas-agbank-prices-ipo-to-be-worlds-largest-idUSTRE6651C120100706
+deleted
+currently on index 159 https://www.caranddriver.com/news/a15129506/2011-volvo-v60-news/
+deleted
+currently on index 160 https://www.autoguide.com/auto-news/2010/07/green-car-reports-drives-1975-volkswagen-rabbit-35-years-in-the-future.html
+deleted
+currently on index 161 https://oilprice.com/Energy/Energy-General/What-Happens-When-Oil-And-Other-Fossil-Fuels-Deplete.html
+deleted
+currently on index 162 https://www.automoblog.net/2010/07/06/land-rover-in-vogue-with-2011-evoque/
+deleted
+currently on index 163 https://lifehacker.com/the-worst-email-habits-and-annoyances-you-should-avoid-5580178
+deleted
+currently on index 164 https://www.carmagazine.co.uk/car-news/first-official-pictures/aston-martin/aston-martin-v8-vantage-n420-2010-first-official-pictures/
+deleted
+currently on index 165 https://www.autocar.co.uk/car-news/new-cars/new-kia-sportage-launched-uk
+deleted
+currently on index 166 https://www.autoguide.com/auto-news/2010/07/pagani-to-launch-cheaper-v8-model-cheaper-being-a-relative-term.html
+deleted
+currently on index 167 https://www.topspeed.com/cars/car-news/1965-aston-martin-db5-vantage-convertible-auctioned-for-830k-ar93061.html
+deleted
+currently on index 168 https://www.topspeed.com/cars/car-news/kaeng-krachan-race-track-in-thailand-is-a-hidden-gem-of-a-circuit-ar92999.html
+deleted
+currently on index 169 https://www.autoguide.com/manufacturer/kia/2011-kia-sorento-ex-v6-review-1386.html
+deleted
+currently on index 170 https://www.autowereld.com/autotests/id/10163/ford-s-max
+deleted
+currently on index 171 https://www.mercurynews.com/2010/07/07/2010-electric-car-lovers-already-lining-up-for-teslas-model-s-sedan/
+currently on index 172 https://www.newstimes.com/local/article/New-Milford-Hospital-gets-Open-Bore-MRI-system-568917.php
+deleted
+currently on index 173 https://www.gizmodo.com.au/2010/07/new-apps-use-your-iphone-4s-led-flash-as-a-torch/
+deleted
+currently on index 174 https://www.gizmodo.com.au/2010/07/a-new-facility-is-being-built-to-harvest-rare-atoms/
+deleted
+currently on index 175 https://www.space.com/8723-sunrise-sunset-earth-day-photographed-space.html
+deleted
+currently on index 176 https://www.autoblog.com/2010/07/07/medium-duty-ford-f-series-trucks-to-get-6-8-liter-v10/
+deleted
+currently on index 177 https://www.environmentalleader.com/2010/07/ups-adds-35-nations-to-carbon-neutral-shipping-program/
+deleted
+currently on index 178 https://www.popularmechanics.com/cars/reviews/a5915/2011-mitsubishi-outlander-sport-test-drive/
+deleted
+currently on index 179 https://www.infoq.com/news/2010/07/ArchitectureStrategies/
+deleted
+currently on index 180 https://www.autoblog.com/2010/07/07/2011-lincoln-mkx-gets-19-26-mpg-ratings-ford-claims-best-in-cla/
+deleted
+currently on index 181 https://www.autoblog.com/2010/07/07/ford-start-concept-gives-informal-socal-show-an-eco-boost/
+deleted
+currently on index 182 https://thenextweb.com/apps/2010/07/08/you-need-check-out-this-real-time-multi-user-browser-sketchpad/
+deleted
+currently on index 183 https://www.theatlantic.com/technology/archive/2010/07/the-3-papers-that-define-biotechnology/59326/
+deleted
+currently on index 184 https://www.dailymail.co.uk/femail/article-1292884/Beauty-Confidential-How-stop-nail-polish-fading-sunshine.html
+deleted
+currently on index 185 https://www.autoblog.com/2010/07/07/bmw-m5-production-comes-to-an-end/
+deleted
+currently on index 186 https://www.greentechmedia.com/articles/read/sunny-mexico-an-energy-opportunity
+deleted
+currently on index 187 https://www.ft.com/content/5a421baa-8a1e-11df-bd30-00144feab49a
+deleted
+currently on index 188 https://www.theglobeandmail.com/arts/television/series-follows-police-squad-in-downtown-eastside/article1212237/
+deleted
+currently on index 189 https://appleinsider.com/articles/10/07/07/review_apples_aluminum_mac_mini_and_mac_mini_server_2010
+deleted
+currently on index 190 https://www.dailymail.co.uk/sciencetech/article-1292777/First-Britons-arrived-950-000-years-ago--lived-Norfolk.html
+deleted
+currently on index 191 https://www.autoguide.com/auto-news/2010/07/rolls-royce-watch-brings-back-%E2%80%9870s-style.html
+deleted
+currently on index 192 https://www.thecarconnection.com/news/1046843_driven-2010-chevrolet-equinox
+deleted
+currently on index 193 https://www.autoguide.com/auto-news/2010/07/password-jdm-prepping-carbon-fiber-diet-for-the-nissan-gt-r.html
+deleted
+currently on index 194 https://www.streetinsider.com/Corporate+News/Tekmira+Pharma+Partner+Alnylam+Pharma+%28ALNY%29+Initiates+ALN-TTR01+Phase+1/5786578.html
+deleted
+currently on index 195 https://www.thehindu.com/features/friday-review/art/Basheer-and-his-characters-revisited/article16188235.ece
+deleted
+currently on index 196 https://www.topspeed.com/cars/car-news/make-your-lamborghini-murcielago-look-like-a-reventon-ar93077.html
+deleted
+currently on index 197 https://www.motorward.com/2010/07/two-cylinder-fiat-500-twinair/
+deleted
+currently on index 198 https://www.businessinsider.com/correcting-the-record-about-my-divorce-2010-7
+currently on index 199 https://mediadecoder.blogs.nytimes.com/2010/07/08/g-e-has-a-capital-idea/
+deleted
+currently on index 200 https://www.nytimes.com/2010/07/09/opinion/09fri3.html
+deleted
+currently on index 201 https://www.geeky-gadgets.com/renault-dezir-electric-sports-cars-charges-in-just-20-minutes-08-07-2010/
+deleted
+currently on index 202 https://www.autoevolution.com/news/lotus-begins-dealership-network-shakeup-22241.html
+deleted
+currently on index 203 https://tv.avclub.com/futurama-proposition-infinity-1798165490
+deleted
+currently on index 204 https://www.yankodesign.com/2010/07/08/yacht-so-green-its-alien/
+deleted
+currently on index 205 http://www.autospies.com/news/Mercedes-Benz-planning-to-drop-V8-diesel-in-favor-of-smaller-V6-55806/
+deleted
+currently on index 206 https://www.benzinga.com/general/10/07/367494/cboe-wins-key-court-ruling-cboe
+deleted
+currently on index 207 https://thenextweb.com/socialmedia/2010/07/08/the-app-store-competing-at-the-highest-level-sporting-events-are-making-their-play/
+deleted
+currently on index 208 https://www.bigpicturebigsound.com/THIEL-Speakers-Now-Available-on-Amazon.shtml
+deleted
+currently on index 209 https://www.autoblog.com/2010/07/08/peugeot-finishes-analysis-of-four-car-le-mans-failure-conclusio/
+deleted
+currently on index 210 https://www.autoblog.com/2010/07/08/alpina-b5-bi-turbo-full-details-and-images/
+deleted
+currently on index 211 https://www.bbc.co.uk/news/10462158
+deleted
+currently on index 212 https://www.caranddriver.com/reviews/a15129384/2012-bmw-1-series-m-coupe-prototype-ride/
+deleted
+currently on index 213 https://wiglafjournal.com/prices-and-product-lifecycle-must-all-prices-fall/
+deleted
+currently on index 214 http://readme.readmedia.com/Balvanz-Family-to-be-Honored-at-Iowa-State-Fair/1583299
+deleted
+currently on index 215 https://www.autoblog.com/2010/07/08/nissan-x-trail-gets-modest-refresh-new-diesel/
+deleted
+currently on index 216 https://www.reuters.com/article/us-film-winnebago/winnebago-man-a-peculiar-stalking-documentary-idUSTRE66767D20100708
+deleted
+currently on index 217 https://www.autoblog.com/2010/07/08/chrysler-expands-60-day-risk-free-return-policy-to-jeep-dodge/
+deleted
+currently on index 218 https://www.reuters.com/article/us-toss-inhaler-if-you-outgrow-asthma-so/toss-out-the-inhaler-if-you-outgrow-asthma-not-so-fast-idUSTRE6675OK20100708
+deleted
+currently on index 219 https://nymag.com/daily/sports/2010/07/uruguayans_endure_heat_dutch_s.html
+deleted
+currently on index 220 https://www.thecarconnection.com/overview/lincoln_mks_2011
+deleted
+currently on index 221 https://www.caranddriver.com/news/a18739885/mitsubishi-adds-2010-lancer-evolution-se-between-gsr-and-mr-trims/
+deleted
+currently on index 222 https://www.thecarconnection.com/news/1046968_ford-pumps-up-rebates-for-2010-mustang-taurus-focus
+deleted
+currently on index 223 https://www.autocar.co.uk/car-news/new-cars/gt-citroen-under-evaluaton
+deleted
+currently on index 224 https://www.topspeed.com/cars/car-news/skoda-fabia-cabrio-in-the-works-ar93141.html
+deleted
+currently on index 225 https://www.socaltech.com/bandcon_acquired_by_highwinds/s-0029707.html
+deleted
+currently on index 226 https://www.slashgear.com/iphone-4-catches-on-fire-thanks-to-defective-usb-port-0893410/
+deleted
+currently on index 227 https://www.autoguide.com/auto-news/2010/07/volkswagen-preparing-race-touraeg-3-for-assault-on-dakar-rally.html
+deleted
+currently on index 228 https://www.topspeed.com/cars/car-news/vauxhall-insignia-gets-new-diesel-engines-ar93186.html
+deleted
+currently on index 229 https://money.cnn.com/2010/07/08/autos/smart_custom_color/index.htm
+deleted
+currently on index 230 https://www.topspeed.com/cars/car-news/2010-porsche-997-turbo-p800-tiptronic-by-switzer-ar93179.html
+deleted
+currently on index 231 https://www.autoguide.com/auto-news/2010/07/japanese-nissan-silvia-s15-receives-left-hand-drive-conversion.html
+deleted
+currently on index 232 https://www.autoevolution.com/news/elon-musk-goes-public-22284.html
+deleted
+currently on index 233 https://www.theatlantic.com/entertainment/archive/2010/07/excited-for-inception-watch-the-prestige/59366/
+deleted
+currently on index 234 https://www.thelocal.de/20100709/28407
+deleted
+currently on index 235 https://www.engadget.com/2010-07-09-how-to-resize-your-sim-and-drink-the-sweet-nectar-of-mobile-fre.html
+deleted
+currently on index 236 https://www.thetruthaboutcars.com/2010/07/review-1958-mercedes-300sl-factory-restored/
+deleted
+currently on index 237 https://www.treehugger.com/sustainable-product-design/make-a-diy-pencil-ipad-stand-with-pencils-rubber-bands.html
+deleted
+currently on index 238 https://tv.avclub.com/haven-1798165414
+deleted
+currently on index 239 https://www.autoblog.com/2010/07/09/rumormill-mercedes-to-partner-with-ducati-on-new-motorbike-line/
+deleted
+currently on index 240 https://www.engadget.com/2010-07-09-acer-timelinex-4820t-review.html
+deleted
+currently on index 241 http://www.autospies.com/news/Rolls-Royce-says-all-of-its-models-are-sold-out-until-at-least-September-55842/
+deleted
+currently on index 242 https://www.autoevolution.com/news/toyota-working-with-tesla-on-ev-prototype-22290.html
+deleted
+currently on index 243 https://thenextweb.com/socialmedia/2010/07/10/twitter-implements-more-features-ignores-its-broken-platform/
+deleted
+currently on index 244 https://www.autoblog.com/2010/07/10/auto-veloce-gives-the-ferrari-f430-the-sv-treatment/
+deleted
+currently on index 245 https://thenextweb.com/us/2010/07/10/counter-phishing-a-phisher/
+deleted
+currently on index 246 https://www.autoblog.com/2010/07/10/kia-soul-gets-yet-another-uk-special-edition/
+deleted
+currently on index 247 https://gizmodo.com/father-of-cell-phones-worried-his-kids-are-becoming-too-5583952
+deleted
+currently on index 248 https://www.caradvice.com.au/73688/hsv-maloo-gxp-and-holden-commodore-ss-v-series-ute-road-test-and-review/
+deleted
+currently on index 249 https://www.topspeed.com/cars/car-news/chrysler-pt-cruiser-is-gone-we-remember-it-in-song-ar93244.html
+deleted
+currently on index 250 https://www.autoguide.com/auto-news/2010/07/tips-on-how-to-pick-the-right-suv-for-your-family.html
+deleted
+currently on index 251 https://techcrunch.com/2010/07/11/elon-musk-why-owen-thomas-is-silicon-valleys-jayson-blair/
+currently on index 252 https://www.nytimes.com/2010/07/12/sports/basketball/12knicks.html
+deleted
+currently on index 253 https://www.gizmodo.com.au/2010/07/woman-imprisoned-for-sending-hundreds-of-threatening-texts-to-herself/
+deleted
+currently on index 254 https://cleantechnica.com/2010/07/11/new-bio-based-adhesive-eliminates-toxic-petrochemicals/
+deleted
+currently on index 255 https://tv.avclub.com/the-boondocks-lovely-ebony-brown-1798165419
+deleted
+currently on index 256 https://www.autoblog.com/2010/07/11/2010-british-grand-prix-playing-favorites-fosters-sibling-rival/
+deleted
+currently on index 257 https://www.autoguide.com/auto-news/2010/07/ryuji-mikis-lexus-sc430-drift-car-now-available-in-forza-motorsport-3.html
+deleted
+currently on index 258 https://www.bbc.co.uk/news/10590486
+deleted
+currently on index 259 https://www.nj.com/business/2010/07/toyota_and_tesla_to_develop_ba.html
+currently on index 260 https://www.fastcompany.com/1668777/apples-retail-guru-tapped-tesla-showrooms
+currently on index 261 https://www.autoguide.com/auto-news/2010/07/tesla-building-two-ev-prototypes-for-toyota-using-japanese-automakers-vehicles.html
+currently on index 262 https://www.yankodesign.com/2010/07/12/tube-your-wood/
+deleted
+currently on index 263 http://www.autospies.com/news/Preview-2011-Porsche-911-Speedster-55889/
+deleted
+currently on index 264 https://evertiq.com/news/17372
+deleted
+currently on index 265 https://www.infoq.com/news/2010/07/objects-smalltalk-erlang/
+deleted
+currently on index 266 https://www.environmentalleader.com/2010/07/poultry-farms-could-turn-waste-to-profit/
+deleted
+currently on index 267 http://www.autospies.com/news/2010-Honda-Freed-Spike-Official-Revealed-55881/
+deleted
+currently on index 268 https://www.greentechmedia.com/articles/read/the-energy-fight-coming-to-the-senate
+deleted
+currently on index 269 https://lifehacker.com/the-perfect-is-the-enemy-of-the-good-5585049
+deleted
+currently on index 270 https://www.dailymail.co.uk/sciencetech/article-1294028/Scientists-use-eye-tracking-technology-lie-detector-test.html
+deleted
+currently on index 271 https://thenextweb.com/entrepreneur/2010/07/12/are-you-the-unreasonable-man/
+deleted
+currently on index 272 https://www.autocar.co.uk/car-news/new-cars/toyota-boss-keen-new-supra
+deleted
+currently on index 273 https://www.bloomberg.com/news/2010-07-13/minara-nickel-output-drops-15-after-pipeline-failure-at-australian-plant.html
+deleted
+currently on index 274 https://techreport.com/articles.x/19242
+deleted
+currently on index 275 https://www.autoguide.com/auto-news/2010/07/bmw-and-mini-get-new-special-editions-for-the-japanese-market.html
+deleted
+currently on index 276 https://lifehacker.com/fix-the-windows-registry-from-a-linux-thumb-drive-5584762
+deleted
+currently on index 277 https://thenextweb.com/microsoft/2010/07/12/ebay-to-use-microsoft-cloud-computing-technology/
+deleted
+currently on index 278 https://www.thecarconnection.com/news/1047083_chrysler-recalls-2010-dodge-nitro-ram-and-2010-jeep-liberty-wrangler
+deleted
+currently on index 279 https://www.topspeed.com/cars/car-news/auto-veloce-gives-ferrari-f430-a-lamborghini-treatment-ar93282.html
+deleted
+currently on index 280 https://www.topspeed.com/cars/car-news/if-it-were-up-to-akio-toyoda-the-next-supra-would-be-in-testing-ar93343.html
+deleted
+currently on index 281 https://www.streetinsider.com/Corporate+News/Auxilium+Pharma+(AUXL)+Updates+on+XIAFLEX%3B+Sales+of+$2M+for+Q2+(BSTC)/5798281.html
+deleted
+currently on index 282 https://www.straight.com/article-333702/vancouver/nicolas-cage-delves-mystical-sorcerers-apprentice
+currently on index 283 https://www.greencarreports.com/news/1047122_bill-gates-backs-ecomotors-new-opoc-engine-with-23-5-million-investment
+deleted
+currently on index 284 https://www.treehugger.com/cars/fords-2011-electric-focus-will-use-lg-chem-batteries.html
+deleted
+currently on index 285 https://tv.avclub.com/louie-so-old-playdate-1798165458
+deleted
+currently on index 286 https://wheels.blogs.nytimes.com/2010/07/13/toyota-extends-warranty-on-troubled-2001-3-rav4/
+deleted
+currently on index 287 https://www.evesun.com/news/stories/2010-07-13/10041/Babcock-pleads-guilty-in-Billy-Lee-death
+deleted
+currently on index 288 http://www.purplerevolver.com/bulletin/news/12762-big-boi-wants-the-quiet-life-with-his-pitbulls.html
+deleted
+currently on index 289 https://www.areadevelopment.com/newsitems/7-13-2010/heritage-crystal-clean-indianapolis-indiana6720.shtml
+deleted
+currently on index 290 https://www.space.com/8752-india-launches-remote-sensing-satellites.html
+deleted
+currently on index 291 https://www.yankodesign.com/2010/07/13/replicators-how-real-today/
+deleted
+currently on index 292 https://www.nytimes.com/2010/07/14/sports/baseball/14olympics.html
+deleted
+currently on index 293 https://cleantechnica.com/2010/07/13/want-to-live-off-the-grid-landbuddy-will-connect-you-with-like-minded-souls/
+deleted
+currently on index 294 https://www.benzinga.com/10/07/373513/testy-tuesday-already
+deleted
+currently on index 295 https://www.environmentalleader.com/2010/07/biodiversity-loss-a-significant-business-risk/
+deleted
+currently on index 296 http://www.autospies.com/news/TOUGH-Decision-Porsche-997-SportClassic-Vs-Ferrari-458-Italia-Vs-Lamborghini-LP550-2-Valentino-Balboni-55914/
+deleted
+currently on index 297 http://www.boston.com/cars/newsandreviews/overdrive/2010/07/2010_jeep_wrangler_unlimited_r.html
+deleted
+currently on index 298 https://evertiq.com/news/17378
+deleted
+currently on index 299 https://www.autoblog.com/2010/07/13/2011-porsche-cayenne-v6-first-drive-review-road-test/
+deleted
+currently on index 300 https://www.autoblog.com/2010/07/13/report-toyota-says-corolla-matrix-steering-issue-not-a-defect/
+deleted
+currently on index 301 https://www.dailymail.co.uk/sciencetech/article-1294109/Demons-Souls-game-review.html
+deleted
+currently on index 302 https://www.caradvice.com.au/73888/holden-commodore-ve2-ss-v-series-and-interior-revealed/
+deleted
+currently on index 303 https://www.carmagazine.co.uk/car-news/industry-news/bmw/bmw-1-series-m-coupe-2011-first-ride-review/
+deleted
+currently on index 304 https://www.dailymail.co.uk/sciencetech/article-1294341/Chicken-really-DID-come-egg-say-scientists.html
+deleted
+currently on index 305 https://www.core77.com/posts/16928/power-styling-an-id-mystery-from-the-1960s-16928
+deleted
+currently on index 306 https://www.dailymail.co.uk/sciencetech/article-1294303/Birds-navigate-able-SEE-Earths-magnetic-field-right-eye.html
+deleted
+currently on index 307 https://www.caranddriver.com/news/a18737615/its-an-sr-71-blackbird-its-a-plane-its-supercharged-shelby-roush-sr-71-mustang/
+deleted
+currently on index 308 https://www.thecarconnection.com/news/1047126_secret-shoppers-give-mercedes-benz-top-marks-for-customer-experience
+deleted
+currently on index 309 https://thenextweb.com/uk/2010/07/13/facebook-and-the-uk-government-how-exactly-does-this-partnership-work/
+deleted
+currently on index 310 https://www.autoguide.com/auto-news/2010/07/25-ugliest-pt-cruisers-herald-the-end-of-chryslers-iconic-hatchback.html
+deleted
+currently on index 311 https://www.topspeed.com/cars/car-news/2011-dodge-challenger-spotted-in-a-parking-lot-ar93417.html
+deleted
+currently on index 312 https://www.reuters.com/article/us-china-steel-tianjin/chinas-tianjin-merges-4-steel-firms-into-new-giant-idUSTRE66D0EI20100714
+deleted
+currently on index 313 https://www.thecarconnection.com/news/1047137_drivers-at-fault-in-so-called-sudden-acceleration-toyotas-nhtsa-says
+deleted
+currently on index 314 https://www.thecarconnection.com/news/1047133_2011-chevrolet-volt-proves-safe-in-deep-water-test
+deleted
+currently on index 315 https://www.autoguide.com/auto-news/2010/07/eat-out-of-the-trunk-with-rolls-royce%E2%80%99s-bespoke-picnic-set.html
+deleted
+currently on index 316 https://www.topspeed.com/cars/car-news/ferrari-458-italia-caught-on-transformers-3-stage-ar93414.html
+deleted
+currently on index 317 https://www.carmagazine.co.uk/spy-shots/land-rover/land-rover-freelander-2011-revealed-in-brochure-leak/
+deleted
+currently on index 318 https://www.autoguide.com/auto-news/2010/07/tuner-transforms-mk5-vw-jetta-sportwagen-into-mk6-jetta-sportwagen-r.html
+deleted
+currently on index 319 https://www.topspeed.com/cars/car-news/subaru-issues-another-recall-for-the-2010-outback-and-the-2010-legacy-due-to-wiring-problems-ar93415.html
+deleted
+currently on index 320 https://www.streetinsider.com/Corporate+News/3PAR+%28PAR%29+Announces+New+Virtualization+Collaboration+with+VMware+%28VMW%29/5799743.html
+deleted
+currently on index 321 https://www.carthrottle.com/post/audi-a4-1-8tfsi-tuning-the-space-station-gets-a-new-exhaust-system/
+deleted
+currently on index 322 https://www.autoblog.it/post/28143/alfa-romeo-giulietta-ricostruzione-grafica-della-sprint
+deleted
+currently on index 323 https://www.autoblog.nl/archive/2010/07/13/kom-maar-door-bmw-z4-shooting-brake
+deleted
+currently on index 324 https://www.motortrend.com/news/tesla-becomes-first-us-auto-ipo-since-ford/
+currently on index 325 https://www.cnbc.com/id/38244070
+deleted
+currently on index 326 https://techcrunch.com/2010/07/14/solarcity-funding-july2010-21-5-million/
+deleted
+currently on index 327 https://blog.oup.com/2010/07/vedral/
+deleted
+currently on index 328 https://ew.com/article/2010/07/14/the-sorcerers-apprentice-director-jon-turteltaub-interview/
+deleted
+currently on index 329 https://kotaku.com/defense-king-of-fighters-voice-actresss-stalker-wasnt-5586673
+deleted
+currently on index 330 https://thenextweb.com/apps/2010/07/14/firefox-user-be-aware-of-two-more-malicious-add-ons/
+deleted
+currently on index 331 https://www.plugincars.com/citroen-says-survolt-electric-sports-car-intended-low-volume-production-49694.html
+deleted
+currently on index 332 https://www.autoblog.com/2010/07/14/armortech-bmw-x6-is-the-amc-eagle-sx-4-of-your-dreams/
+deleted
+currently on index 333 https://www.just-drinks.com/news/heaven-hill-distilleries-lines-up-blackheart-spiced-rum-extension_id101299.aspx
+deleted
+currently on index 334 https://thenextweb.com/apps/2010/07/15/absolute-genius-try-this-old-spice-voicemail-generator-now/
+deleted
+currently on index 335 https://www.environmentalleader.com/2010/07/greenwashing-how-to-avoid-the-typical-marketing-traps/
+deleted
+currently on index 336 https://www.shinyshiny.tv/2010/07/canon_legria_hf_m32_camcorder.html
+deleted
+currently on index 337 https://www.autoblog.com/2010/07/14/breaking-indycar-announces-new-chassis-manufacturer-for-2012/
+deleted
+currently on index 338 https://www.autoblog.com/2010/07/14/captain-slow-no-more-top-gears-james-may-hits-259-11-mp/
+deleted
+currently on index 339 https://www.bbc.co.uk/news/10633834
+deleted
+currently on index 340 https://thenextweb.com/us/2010/07/15/the-deeper-issues-behind-the-wordpress-ordeal/
+deleted
+currently on index 341 https://www.reuters.com/article/us-glaxo/glaxo-takes-2-4-bln-charge-avandia-mostly-settled-idUSTRE66E11220100715
+deleted
+currently on index 342 https://www.theatlantic.com/politics/archive/2010/07/map-of-the-day-the-worlds-most-authoritarian-nations/59764/
+deleted
+currently on index 343 https://www.caranddriver.com/news/a15129374/bmw-x3-news-2011-bmw-x3-photos-and-info/
+deleted
+currently on index 344 https://thenextweb.com/apps/2010/07/14/evernotes-new-trunk-highlights-memory-as-a-platform/
+deleted
+currently on index 345 https://uk.reuters.com/article/us-spain-comic/comic-writer-tackles-daughters-autism-with-humour-idUKTRE66D1TZ20100714
+deleted
+currently on index 346 https://in.reuters.com/article/idINIndia-50116020100714
+deleted
+currently on index 347 https://www.bloomberg.com/news/articles/2010-07-14/spain-to-sell-15-year-bonds-in-debt-auction-as-deficit-pressures-increase
+deleted
+currently on index 348 https://www.caranddriver.com/reviews/a15127672/volkswagen-jetta-reviews-2010-vw-jetta-tdi-cup-test/
+deleted
+currently on index 349 https://www.uq.edu.au/news/article/2010/07/large-predatory-fish-fossil-found-near-isisford
+deleted
+currently on index 350 https://www.reuters.com/article/us-legionnaires-costs-usa/three-waterborne-diseases-cost-u-s-539-mln-a-year-idUSTRE66D4RW20100714
+deleted
+currently on index 351 https://www.cnbc.com/id/38246437
+deleted
+currently on index 352 https://www.bizjournals.com/stlouis/blog/2010/07/st_louis_designers_picked_for_project_runway.html
+deleted
+currently on index 353 https://www.thecarconnection.com/news/1047173_subaru-could-be-in-for-an-extreme-makeover
+deleted
+currently on index 354 https://www.npr.org/templates/story/story.php?storyId=128368179
+deleted
+currently on index 355 https://www.carsguide.com.au/car-news/volvo-futuristic-concept-truck-2020-17583
+deleted
+currently on index 356 https://www.topspeed.com/cars/car-news/range-rover-evoque-comes-to-a-city-near-you-ar93469.html
+deleted
+currently on index 357 https://www.autoguide.com/auto-news/2010/07/platinum-motorsport-builds-matte-blue-porsche-panamera.html
+deleted
+currently on index 358 https://www.thisismoney.co.uk/money/bills/article-1698720/Asda-rapped-for-100-day-returns-claim.html
+deleted
+currently on index 359 https://www.topspeed.com/cars/car-news/renault-megane-rs-with-corniche-sports-wheels-ar93481.html
+deleted
+currently on index 360 https://www.streetinsider.com/Corporate+News/CAS+Medical+%28CASM%29+Positive+Findings+in+Aortic+Arch+Surgery+Study+Published/5804258.html
+deleted
+currently on index 361 https://www.fastcompany.com/1670970/tesla-toyota-plan-sell-electric-rav4-2012
+currently on index 362 https://www.treehugger.com/cars/obama-checked-out-the-chevy-volt-and-electric-ford-focus-for-first-time.html
+deleted
+currently on index 363 https://www.marketwatch.com/story/federated-to-acquire-17-bln-money-market-assets-2010-07-16
+deleted
+currently on index 364 http://www.autospies.com/news/SPIED-2012-Mercedes-Benz-SLK-350-56031/
+deleted
+currently on index 365 http://www.autospies.com/news/The-Definition-of-a-Supercar-56032/
+deleted
+currently on index 366 https://www.space.com/8776-international-space-crew-reunites-mission-35th-anniversary.html
+deleted
+currently on index 367 https://www.ocregister.com/2010/07/16/suspect-in-buena-park-chase-makes-bail/
+deleted
+currently on index 368 https://thenextweb.com/uk/2010/07/16/since-when-is-it-okay-for-the-government-to-tell-facebook-what-to-do/
+deleted
+currently on index 369 https://torontolife.com/city/i-doser-mp3s-a-k-a-digital-drugs-all-the-rage-among-cheap-teenagers-looking-to-get-high/
+deleted
+currently on index 370 https://www.caranddriver.com/features/a15129839/what-would-george-jetson-drive-feature/
+deleted
+currently on index 371 https://www.autoblog.com/2010/07/16/nissan-murano-gets-first-ever-diesel-snarlier-new-fascia-jus/
+deleted
+currently on index 372 https://www.autoblog.com/2010/07/16/land-rover-puts-a-spin-on-spy-shot-camouflage-to-introduce-evoqu/
+deleted
+currently on index 373 https://www.zdnet.com/article/buggy-software-why-do-we-put-up-with-it/
+deleted
+currently on index 374 https://www.bbc.co.uk/news/business-10662909
+deleted
+currently on index 375 https://www.autoguide.com/auto-news/2010/07/car-thieves-targeting-smart-cars-arrested-in-portugal.html
+deleted
+currently on index 376 https://www.bbc.co.uk/news/science-environment-10664362
+deleted
+currently on index 377 https://consults.blogs.nytimes.com/2010/07/16/are-sleeping-pills-addictive/
+deleted
+currently on index 378 https://www.autocar.co.uk/car-news/new-cars/mansorys-rolls-ghost-launched
+deleted
+currently on index 379 https://www.reuters.com/article/ubs/ubs-hires-2-6-million-adviser-team-idUSN1612752620100716
+deleted
+currently on index 380 https://www.thecarconnection.com/news/1047276_fire-sale-deals-on-2010-mercury-vehicles-probably-not
+deleted
+currently on index 381 https://www.autocar.co.uk/car-news/concept-cars/mini-plans-new-city-car-concept
+deleted
+currently on index 382 https://thenextweb.com/mobile/2010/07/16/bye-bye-droid-motorolas-original-android-phone-reaching-end-of-life/
+deleted
+currently on index 383 https://www.bbc.co.uk/news/uk-england-manchester-10664502
+deleted
+currently on index 384 https://www.autoguide.com/auto-news/2010/07/citroen-may-produce-metropolis-survolt-concept-cars.html
+deleted
+currently on index 385 https://www.autocar.co.uk/car-news/industry/micra-uk-production-ends
+deleted
+currently on index 386 https://www.autoguide.com/auto-news/2010/07/porsche-and-nissan-in-marketing-war-in-the-uk.html
+deleted
+currently on index 387 https://www.topspeed.com/cars/car-news/ferrari-458-italia-caught-fire-in-paris-ar93580.html
+deleted
+currently on index 388 https://www.topspeed.com/cars/top-five-mid-life-crisis-cars-ar93548.html
+deleted
+currently on index 389 https://www.autoguide.com/auto-news/2010/07/g-power-builds-900-hp-bmw-x6-m.html
+deleted
+currently on index 390 https://www.autoguide.com/auto-news/2010/07/dinan-stroked-bmw-m5-found-for-sale-at-bargain-price.html
+deleted
+currently on index 391 https://www.n-tv.de/panorama/Penis-Diebstahl-auf-Friedhof-article1074611.html
+deleted
+currently on index 392 https://www.nytimes.com/2010/07/18/opinion/l18teach.html
+deleted
+currently on index 393 https://thenextweb.com/uk/2010/07/17/uk-government-building-facebook-app/
+deleted
+currently on index 394 https://tv.avclub.com/doctor-who-the-pandorica-opens-1798165485
+deleted
+currently on index 395 https://www.nytimes.com/2010/07/17/business/17aig.html
+deleted
+currently on index 396 https://appleinsider.com/articles/10/07/17/rim_nokia_respond_to_apples_antennagate_press_conference
+deleted
+currently on index 397 https://www.autoblog.com/2010/07/17/next-gen-pt-cruiser-imagined-despite-cars-demise/
+deleted
+currently on index 398 https://www.autoblog.com/2010/07/17/concept-cars-highlight-ford-only-day-of-rms-monterey-auction/
+deleted
+currently on index 399 https://www.bbc.co.uk/news/world-asia-pacific-10671400
+deleted
+currently on index 400 https://www.thecarconnection.com/news/1047280_for-older-drivers-mental-workouts-help-reduce-accidents
+deleted
+currently on index 401 https://www.autoguide.com/auto-news/2010/07/vivid-racing-goes-matte-green-on-bmw-7-series.html
+deleted
+currently on index 402 https://www.autoblog.com/2010/07/18/nascar-robots-datsun-bumblebee-spied-during-filming-of-transfor/
+deleted
+currently on index 403 https://thenextweb.com/apps/2010/07/18/gallery-private-locks-down-your-android-pictures-from-prying-eyes/
+deleted
+currently on index 404 https://www.autoblog.com/2010/07/18/bricklin-the-musical/
+deleted
+currently on index 405 http://www.autospies.com/news/FIRE-A-Ferrari-458-Goes-Up-In-SMOKE-Are-Mid-Engined-Vehicles-FLAWED-56043/
+deleted
+currently on index 406 https://www.reuters.com/article/us-starz/starz-casts-spartacus-prequel-idUSTRE66I0QP20100719
+deleted
+currently on index 407 https://www.autoguide.com/auto-news/2010/07/audis-new-fuel-cap-to-prevent-pumping-gasoline-into-your-diesel-tank.html
+deleted
+currently on index 408 https://www.reuters.com/article/us-healthscope-tpg/tpg-carlyle-to-buy-australias-healthscope-for-1-7-billion-idUSTRE66H2KB20100719
+deleted
+currently on index 409 https://www.thetruthaboutcars.com/2010/07/the-50-million-car-market-china%E2%80%99s-boom-will-last-more-than-20-years-experts-predict/
+deleted
+currently on index 410 https://www.bloomberg.com/news/articles/2010-07-19/china-s-shandong-province-faces-oversupply-of-oil-products-dzwww-com-says
+deleted
+currently on index 411 https://www.engadget.com/2010-07-19-tesla-roadster-goes-continent-hopping-expands-markets-to-includ.html
+currently on index 412 https://wheels.blogs.nytimes.com/2010/07/19/most-arguments-in-the-car-are-over-directions-says-survey/
+deleted
+currently on index 413 https://kotaku.com/plants-vs-zombies-shambles-to-xbox-360-this-fall-5590950
+deleted
+currently on index 414 https://www.wired.com/2010/07/hondas-got-a-plug-in-and-ev-coming/
+deleted
+currently on index 415 https://www.engadget.com/2010-07-19-asus-23-inch-vg236h-3d-monitor-gets-reviewed-pricey-but-a-rea.html
+deleted
+currently on index 416 https://www.environmentalleader.com/2010/07/corporate-water-treatment-market-projected-to-reach-2-5b/
+deleted
+currently on index 417 https://wheels.blogs.nytimes.com/2010/07/19/g-m-joint-venture-introduces-new-brand-to-china/
+deleted
+currently on index 418 https://thenextweb.com/apps/2010/07/20/ba-hoping-that-keeping-customers-appy-will-keep-them-loyal/
+deleted
+currently on index 419 https://www.plugincars.com/need-electric-car-charging-station-here-are-companies-are-building-them-49735.html
+deleted
+currently on index 420 https://www.rferl.org/a/Interview_Amiri_Was_Not_Who_He_Pretended_He_Was/2104180.html
+deleted
+currently on index 421 https://www.bizjournals.com/denver/stories/2010/07/19/daily15.html
+deleted
+currently on index 422 https://lifehacker.com/scandrop-sends-scanned-documents-directly-to-google-doc-5590558
+deleted
+currently on index 423 https://www.greentechmedia.com/articles/read/top-5-demand-response
+deleted
+currently on index 424 https://www.autoguide.com/auto-news/2010/07/bmw-x6-is-not-so-pretty-in-pink.html
+deleted
+currently on index 425 https://www.autoguide.com/auto-news/2010/07/bmw-x4-being-considered-after-surprising-success-of-x6.html
+deleted
+currently on index 426 https://www.paloaltoonline.com/news/show_story.php?id=17612
+deleted
+currently on index 427 https://www.autocar.co.uk/car-news/new-cars/honda-revises-insight
+deleted
+currently on index 428 https://www.thecarconnection.com/news/1047264_az-switches-off-speed-cameras-for-privacy-revenue-reasons
+deleted
+currently on index 429 https://www.caranddriver.com/reviews/a15128525/2011-subaru-impreza-wrx-first-drive-review/
+deleted
+currently on index 430 https://www.pistonheads.com/news/ph-features-heroes/ph-heroes-bmw-e28-m5/22224
+deleted
+currently on index 431 https://www.treehugger.com/cars/is-nissan-planning-a-leaf-based-electric-sports-car.html
+deleted
+currently on index 432 https://www.wired.com/2010/07/vw-300k-evs-annually-2018/
+deleted
+currently on index 433 https://thenextweb.com/uk/2010/07/20/guardian-names-steve-jobs-medias-most-influential-person/
+deleted
+currently on index 434 https://www.environmentalleader.com/2010/07/global-v2g-market-to-reach-26-6-b-by-2020/
+deleted
+currently on index 435 https://kotaku.com/star-wars-trench-run-2-turns-your-iphone-into-a-control-5591606
+deleted
+currently on index 436 https://kotaku.com/microsoft-prices-kinect-xbox-360-motion-games-5591138
+deleted
+currently on index 437 https://www.wired.com/2010/07/tubesat-personal-satellite/
+deleted
+currently on index 438 https://www.marketwatch.com/story/aarp-to-liquidate-its-mutual-fund-lineup-2010-07-20
+deleted
+currently on index 439 https://www.autoblog.com/2010/07/20/korean-spec-hyundai-avante-interior-gives-sneak-peek-inside-2011/
+deleted
+currently on index 440 https://www.autoblog.com/2010/07/20/ducati-announces-2011-848-evo/
+deleted
+currently on index 441 http://www.autospies.com/news/REVIEW-Is-Mercedes-Benz-s-E63-AMG-The-Greatest-SHOW-On-Earth-56114/
+deleted
+currently on index 442 https://www.bbc.co.uk/news/world-south-asia-10700475
+deleted
+currently on index 443 https://www.autoguide.com/auto-news/2010/07/lexus-is350-awd-model-announced-es350-tuned-for-regular-fuel.html
+deleted
+currently on index 444 https://oilprice.com/The-Environment/Oil-Spills/Schlumberger-Denies-Having-Deepwater-Horizon-Mud-Logs.html
+deleted
+currently on index 445 https://www.thecarconnection.com/news/1047383_kia-schools-us-in-smart-style-with-2011-optima-interior
+deleted
+currently on index 446 https://www.npr.org/templates/story/story.php?storyId=128642876
+deleted
+currently on index 447 https://www.autoguide.com/auto-news/2010/07/citroen-ds9-to-be-put-into-production.html
+deleted
+currently on index 448 https://www.autoguide.com/auto-news/2010/07/audi-q1-likely-q3-could-see-u-s-shores.html
+deleted
+currently on index 449 https://www.caranddriver.com/reviews/a15129843/2010-jeep-wrangler-unlimited-sport-review/
+deleted
+currently on index 450 https://www.topspeed.com/cars/car-news/lamborghini-working-on-suv-and-entry-level-model-ar93719.html
+deleted
+currently on index 451 https://www.thecarconnection.com/news/1047334_one-ugly-auto-dealer-trick-down-the-rest-status-quo
+deleted
+currently on index 452 https://www.topspeed.com/cars/car-news/mini-countryman-life-ball-editions-introduced-in-vienna-ar93737.html
+deleted
+currently on index 453 https://www.thecarconnection.com/news/1020203_the-list-the-most-dangerous-roads-in-the-world
+deleted
+currently on index 454 https://www.topspeed.com/cars/car-news/ferrari-world-abu-dhabi-unveils-its-attractions-ar93755.html
+deleted
+currently on index 455 https://www.rte.ie/news/business/2010/0720/133565-boi/
+deleted
+currently on index 456 https://www.bloomberg.com/news/articles/2010-07-20/new-york-university-names-surh-permanent-chief-of-2-5-billion-endowment
+deleted
+currently on index 457 https://www.slashgear.com/projector-ring-is-a-truly-unique-one-of-a-kind-item-2094802/
+deleted
+currently on index 458 http://electrovelocity.com/2010/07/21/tesla-model-s-factory-tour/
+deleted
+currently on index 459 https://www.gizmodo.com.au/2010/07/explosive-pornstar-by-day-nerdy-programmer-by-night/
+deleted
+currently on index 460 https://tv.avclub.com/confessions-animal-hoarding-1798165460
+deleted
+currently on index 461 https://www.marketwatch.com/story/intuitive-surgical-reports-income-surge-2010-07-21
+deleted
+currently on index 462 https://www.mtu.edu/news/stories/2010/july/now-you-see-it-now-you-dont-invisibility-cloak-made-glass.html
+deleted
+currently on index 463 https://wallstreetpit.com/36356-the-real-yield-curve-and-a-double-dip-recession/
+/home/jinseo.lee/env/lib/python3.7/site-packages/dateutil/parser/_parser.py:1218: UnknownTimezoneWarning: tzname EDT identified but not understood.  Pass `tzinfos` argument in order to correctly return a timezone-aware datetime.  In a future version, this will raise an exception.
+  category=UnknownTimezoneWarning)
+Traceback (most recent call last):
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/connectionpool.py", line 381, in _make_request
+    self._validate_conn(conn)
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/connectionpool.py", line 976, in _validate_conn
+    conn.connect()
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/connection.py", line 370, in connect
+    ssl_context=context,
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/util/ssl_.py", line 377, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/global/software/python/anaconda3.7/lib/python3.7/ssl.py", line 423, in wrap_socket
+    session=session
+  File "/global/software/python/anaconda3.7/lib/python3.7/ssl.py", line 870, in _create
+    self.do_handshake()
+  File "/global/software/python/anaconda3.7/lib/python3.7/ssl.py", line 1139, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/connectionpool.py", line 725, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/urllib3/util/retry.py", line 439, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='wallstreetpit.com', port=443): Max retries exceeded with url: /36356-the-real-yield-curve-and-a-double-dip-recession/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "summarizer.py", line 23, in <module>
+    req = requests.get(url, time.sleep(3), headers=headers)
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/jinseo.lee/env/lib/python3.7/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='wallstreetpit.com', port=443): Max retries exceeded with url: /36356-the-real-yield-curve-and-a-double-dip-recession/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')))
+End of Script
