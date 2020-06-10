@@ -30,16 +30,24 @@ tokenizer = RegexpTokenizer(r'\w+')
 keyword = 'tesla'
 delete_row_ind =[]
 
-url_list = url_list[463:]
-for i, url in enumerate(url_list, start=463):
+start = 4310
+url_list = url_list[start:]
+for i, url in enumerate(url_list, start=start):
     print ("currently on index", i, url)
     try:
         req = requests.get(url, time.sleep(3), headers=headers)
     except:
         req = requests.get(url, time.sleep(3), headers=headers, verify=False)
+
     extractor = Goose()
-    article = extractor.extract(raw_html=req.content)
-    text = tokenizer.tokenize(article.cleaned_text.lower())
+    try:
+        article = extractor.extract(raw_html=req.content)
+        text = tokenizer.tokenize(article.cleaned_text.lower())
+
+    except:
+        text = ''
+        print('skipped \"Goose cannot extract article\"')
+
     keyword_count=0
     for word in text:
         if word == keyword:

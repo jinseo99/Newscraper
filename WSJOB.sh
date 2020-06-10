@@ -7,8 +7,8 @@
 
 echo "Start of Script"
 
-echo "job-%j"
-echo "starting from index 463"
+echo output
+echo "starting from index 4310"
 
 python summarizer.py
 
