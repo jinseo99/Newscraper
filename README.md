@@ -1,6 +1,6 @@
-# Website Scraper
+# Newscraper
 
-Website Scraper is a group of Python libraries with the intent of scraping news articles for summaries.
+Newscraper allows scraping of news articles for summaries.
 
 ## Usage
 
